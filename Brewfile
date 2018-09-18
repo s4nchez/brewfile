@@ -1,6 +1,7 @@
 tap "homebrew/core"
 tap "homebrew/bundle"
 tap "homebrew/services"
+tap "caskroom/versions"
 tap "caskroom/cask"
 
 brew "gpg"
@@ -12,4 +13,4 @@ cask "iterm2"
 cask "jetbrains-toolbox"
 cask "sublime-text"
 cask "docker"
-
+cask "java8"
