@@ -3,6 +3,7 @@ tap "homebrew/bundle"
 tap "homebrew/services"
 tap "caskroom/versions"
 tap "caskroom/cask"
+tap "homebrew/cask-fonts"
 
 brew "gpg"
 brew "stern"
@@ -23,3 +24,5 @@ cask "java8"
 cask "google-chrome"
 cask "caffeine"
 cask "franz"
+cask "font-inconsolata-dz-for-powerline"
+
