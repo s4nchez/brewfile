@@ -4,6 +4,7 @@ tap "homebrew/services"
 tap "caskroom/versions"
 tap "caskroom/cask"
 tap "homebrew/cask-fonts"
+tap "homebrew/cask-drivers"
 
 brew "gpg"
 brew "stern"
@@ -25,4 +26,8 @@ cask "google-chrome"
 cask "caffeine"
 cask "franz"
 cask "font-inconsolata-dz-for-powerline"
+cask "logitech-gaming-software" #webcam
+cask "zoomus"
+cask "moom" #screen resizer
 
+mas "RSS Bot", id: 605732865
