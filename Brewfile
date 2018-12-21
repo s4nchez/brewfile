@@ -13,6 +13,7 @@ brew "kubernetes-helm"
 brew "zsh"
 brew "rbenv"
 brew "nodenv"
+brew "golang"
 brew "antigen"
 brew "htop"
 brew "coreutils"
@@ -29,5 +30,7 @@ cask "font-inconsolata-dz-for-powerline"
 cask "logitech-gaming-software" #webcam
 cask "zoomus"
 cask "moom" #screen resizer
+
+cask "citrix-workspace" #remote desktop
 
 mas "RSS Bot", id: 605732865
