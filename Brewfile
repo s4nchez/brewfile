@@ -20,6 +20,7 @@ brew "htop"
 brew "coreutils"
 brew "jenv"
 brew "watchman"
+brew "carthage"
 
 cask "iterm2"
 cask "jetbrains-toolbox"
