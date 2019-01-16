@@ -11,6 +11,7 @@ brew "gpg"
 brew "stern"
 brew "kubernetes-cli"
 brew "kubernetes-helm"
+brew "kubectx"
 brew "zsh"
 brew "rbenv"
 brew "nodenv"
@@ -21,6 +22,7 @@ brew "coreutils"
 brew "jenv"
 brew "watchman"
 brew "carthage"
+brew "jq"
 
 cask "iterm2"
 cask "jetbrains-toolbox"
@@ -34,6 +36,7 @@ cask "font-inconsolata-dz-for-powerline"
 cask "logitech-gaming-software" #webcam
 cask "zoomus"
 cask "moom" #screen resizer
+cask "spotify"
 
 cask "citrix-workspace" #remote desktop
 
