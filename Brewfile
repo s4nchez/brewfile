@@ -41,3 +41,5 @@ cask "spotify"
 cask "citrix-workspace" #remote desktop
 
 mas "RSS Bot", id: 605732865
+mas "GIPHY Capture", id: 668208984
+mas "Screens 4", id: 1224268771
