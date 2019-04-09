@@ -24,6 +24,7 @@ brew "watchman"
 brew "carthage"
 brew "jq"
 
+cask "charles"
 cask "iterm2"
 cask "jetbrains-toolbox"
 cask "sublime-text"
@@ -37,6 +38,8 @@ cask "logitech-gaming-software" #webcam
 cask "zoomus"
 cask "moom" #screen resizer
 cask "spotify"
+cask "dropbox"
+cask "cyberduck"
 
 cask "citrix-workspace" #remote desktop
 
