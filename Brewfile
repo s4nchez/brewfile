@@ -30,6 +30,7 @@ cask "jetbrains-toolbox"
 cask "sublime-text"
 cask "docker"
 cask "java8"
+cask "java"
 cask "google-chrome"
 cask "caffeine"
 cask "franz"
@@ -40,6 +41,8 @@ cask "moom" #screen resizer
 cask "spotify"
 cask "dropbox"
 cask "cyberduck"
+=======
+cask "reactotron"
 
 cask "citrix-workspace" #remote desktop
 
