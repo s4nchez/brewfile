@@ -27,7 +27,6 @@ brew "jq"
 brew "aws-iam-authenticator"
 brew "heroku"
 brew "travis"
-brew "visual-studio-code"
 
 cask "charles"
 cask "iterm2"
@@ -46,8 +45,8 @@ cask "moom" #screen resizer
 cask "spotify"
 cask "dropbox"
 cask "cyberduck"
-=======
 cask "reactotron"
+cask "visual-studio-code"
 
 cask "citrix-workspace" #remote desktop
 
