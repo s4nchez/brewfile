@@ -37,6 +37,7 @@ cask "elgato-control-center"
 cask "font-inconsolata-dz-for-powerline"
 cask "franz"
 cask "google-chrome"
+cask "grammarly"
 cask "iterm2"
 cask "jetbrains-toolbox"
 cask "spotify"
@@ -45,4 +46,5 @@ cask "tuple"
 cask "visual-studio-code"
 cask "zoomus"
 
+mas "Drafts", id: 1435957248
 mas "GIPHY Capture", id: 668208984
